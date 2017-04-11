@@ -2,4 +2,4 @@ The human genome has around ~1500 DNA binding proteins and ~1400 RNA binding pro
 
 This data is from dreamchallenges.org, it contains the protein- DNA interactions for 20 proteins in rats. 
 
-![alt text](protein-bindign.png "Protein binding")
+![alt text](protein-binding.png "Protein binding")
